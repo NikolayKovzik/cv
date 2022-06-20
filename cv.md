@@ -1,5 +1,5 @@
 
-![Alt-текст](1.jpeg)
+![Alt-текст](photo.jpeg)
 
 # NIKOLAY KOVZIK
  *JUNIOR FRONTEND DEVELOPER*
